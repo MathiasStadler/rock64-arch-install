@@ -117,6 +117,22 @@ sed -n '/^###SCRIPT_START###/,/^###SCRIPT_END###/p' README.md >arch-install-encr
 
 ```
 
+## rock64 reboots problems
+
+- error/situation the rock64 is not restart without hard reset
+
+```txt
+https://forum.pine64.org/showthread.php?tid=7001
+https://forum.pine64.org/showthread.php?tid=5997
+https://github.com/Kwiboo/linux-rockchip/issues/14 - RK3328 : device locks on reboot 
+https://forum.pine64.org/showthread.php?tid=5008 Rock64 Boot-up Bug with Serial Console Cable
+https://github.com/ayufan-rock64/linux-build/issues/83
+
+```
+
+```bash
+```
+
 
 
 ## steps
